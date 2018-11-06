@@ -23,5 +23,5 @@ public class ProductTest {
         assertEquals("Check the price of the product", 180, aProduct.getPrice());
     }
 
-
+//
 }
